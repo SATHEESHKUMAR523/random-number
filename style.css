@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: verdana;
+    background-color: rgb(207, 85, 85);
+    margin:0;
+}
+h1{
+    background-color: blanchedalmond;
+    margin-top: 0;
+    padding:25px 25px;
+}
+#mybtn{
+    padding:10px 20px;
+    color: black;
+    background-color: rgb(84, 84, 212);
+    font-size:30px;
+    border-radius: 5px;
+    transition: background-color 1s;
+}
+#mybtn:hover{
+    background-color: rgb(4, 4, 171);
+}
+#mylabel{
+    font-size: 3em;
+}
