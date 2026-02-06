@@ -12,13 +12,13 @@ h1{
 #mybtn{
     padding:10px 20px;
     color: black;
-    background-color: rgb(84, 84, 212);
+    background-color: green;
     font-size:30px;
     border-radius: 5px;
     transition: background-color 1s;
 }
 #mybtn:hover{
-    background-color: rgb(4, 4, 171);
+    background-color: lightgreen;
 }
 #mylabel{
     font-size: 3em;
